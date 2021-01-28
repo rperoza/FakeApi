@@ -1,4 +1,7 @@
 {
+	"OrdemProducao": [
+		{
+			
 	"cores": [
 		{
 			"CodigoCor" 	: "0040",
@@ -79,4 +82,6 @@
   		"msgTy"	: "S",
   		"msgX"	: "Consulta realizada com sucesso."
 	}
+	}
+	]
 }
