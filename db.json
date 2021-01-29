@@ -5,7 +5,7 @@
 			"DescricaoCor"	: "Raranja",
 			"NotaQM" 		: "20000293",
 			"Status"		: "Já Processado",
-			"Cliches": [
+			"cliches": [
 				{
 					"CodigoCliche" 		: "120000502",
 					"DescricaoCliche" 	: "Clichê 2031-PANTONE_104_C 9039517 V"
@@ -15,14 +15,14 @@
 					"DescricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
 				}
 			],
-			"Camisas": [
+			"camisas": [
 				{
 					"CodigoCamisa" 		: "130000122",
 					"DescricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
 					"ConjuntoCamisa"	: "060K"
 				}
 			],
-			"Anilox": [
+			"nilox": [
 				{
 					"CodigoAnilox" 		: "180000098",
 					"DescricaoAnilox" 	: "Anilox 8764-ANILOX TOP 17 V"
@@ -34,7 +34,7 @@
 			"DescricaoCor"	: "Bermeio",
 			"NotaQM" 	: "",
 			"Status"		: "Não Processado",
-			"Cliches": [
+			"cliches": [
 				{
 					"CodigoCliche" 		: "120000502",
 					"DescricaoCliche" 	: "Clichê 2031-PANTONE_104_C 9039517 V"
@@ -44,7 +44,7 @@
 					"DescricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
 				}
 			],
-			"Camisas": [
+			"camisas": [
 				{
 					"CodigoCamisa" 		: "130000122",
 					"DescricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"Motivos": [
+	"motivos": [
 		{
 			"TipoMotivo" : "ZPMMD001",
 			"Codigo" : "0010",
