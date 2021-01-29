@@ -1,5 +1,7 @@
-{			
-	"cores": [
+{
+	"OrdemProducao": [{
+		"numeroOp": "12345",	
+		"cores": [
 		{
 			"CodigoCor" 	: "0040",
 			"DescricaoCor"	: "Raranja",
@@ -79,4 +81,6 @@
   		"msgTy"	: "S",
   		"msgX"	: "Consulta realizada com sucesso."
 	}
+	}
+	]
 }
