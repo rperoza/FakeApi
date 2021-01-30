@@ -1,4 +1,6 @@
 {
+	"ordemProducao" : "12345",
+	"centro" : "1001",
 	"cores": [
 		{
 			"codigoCor" 	: "0040",
