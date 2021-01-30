@@ -1,4 +1,4 @@
-{
+[{	
 	"ordemProducao" : "12345",
 	"centro" : "1001",
 	"cores": [
@@ -81,4 +81,4 @@
   		"msgTy"	: "S",
   		"msgX"	: "Consulta realizada com sucesso."
 	}
-}
+}]
