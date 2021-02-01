@@ -1,5 +1,59 @@
 {	
-	"Motivos": [
+	"cores": [
+		{
+			"codigoCor" 	: "0040",
+			"descricaoCor"	: "Raranja",
+			"notaQM" 		: "20000293",
+			"status"		: "Já Processado",
+			"cliches": [
+				{
+					"codigoCliche" 		: "120000502",
+					"descricaoCliche" 	: "Clichê 2031-PANTONE_104_C 9039517 V"
+				},
+				{
+					"codigoCliche" 		: "120000503",
+					"descricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
+				}
+			],
+			"camisas": [
+				{
+					"codigoCamisa" 		: "130000122",
+					"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
+					"conjuntoCamisa"	: "060K"
+				}
+			],
+			"anilox": [
+				{
+					"codigoAnilox" 		: "180000098",
+					"descricaoAnilox" 	: "Anilox 8764-ANILOX TOP 17 V"
+				}
+			]
+		},
+		{
+			"codigoCor" 	: "0050",
+			"descricaoCor"	: "Bermeio",
+			"notaQM" 	: "",
+			"status"		: "Não Processado",
+			"cliches": [
+				{
+					"codigoCliche" 		: "120000502",
+					"descricaoCliche" 	: "Clichê 2031-PANTONE_104_C 9039517 V"
+				},
+				{
+					"codigoCliche" 		: "120000503",
+					"descricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
+				}
+			],
+			"camisas": [
+				{
+					"codigoCamisa" 		: "130000122",
+					"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
+					"conjuntoCamisa"	: "060K"
+				}
+			]
+		}
+	],
+	"motivos": [
 		{
 			"tipoMotivo" : "ZPMMD001",
 			"codigo" : "0010",
@@ -20,5 +74,9 @@
 			"codigo" : "0040",
 			"descricao" : "Ponto Cortado"
 		}
-	]
+	],
+	"mensagem": {
+  		"msgTy"	: "S",
+  		"msgX"	: "Consulta realizada com sucesso."
+	}
 }
