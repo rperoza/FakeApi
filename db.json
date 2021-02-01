@@ -1,83 +1,24 @@
-{
-  "cores": [
-    {
-      "codigoCor": "0040",
-      "descricaoCor": "Raranja",
-      "notaQM": "20000293",
-      "status": "Já Processado",
-      "camisas": [
-        {
-          "codigoCamisa": "130000122",
-          "descricaoCamisa": "Camisa 12837-CAMISA TESTE 123",
-          "conjuntoCamisa": "060K"
-        }
-      ],
-      "cliches": [
-        {
-          "codigoCliche": "120000502",
-          "descricaoCliche": "Clichê 2031-PANTONE_104_C 9039517 V"
-        },
-        {
-          "codigoCliche": "120000503",
-          "descricaoCliche": "Clichê 1234-PANTONE_105_C"
-        }
-      ],
-      "anilox": [
-        {
-          "codigoAnilox": "180000098",
-          "descricaoAnilox": "Anilox 8764-ANILOX TOP 17 V"
-        }
-      ]
-    },
-    {
-      "codigoCor": "0050",
-      "descricaoCor": "Bermeio",
-      "notaQM": "",
-      "status": "Não Processado",
-      "camisas": [
-        {
-          "codigoCamisa": "130000122",
-          "descricaoCamisa": "Camisa 12837-CAMISA TESTE 123",
-          "conjuntoCamisa": "060K"
-        }
-      ],
-      "cliches": [
-        {
-          "codigoCliche": "120000502",
-          "descricaoCliche": "Clichê 2031-PANTONE_104_C 9039517 V"
-        },
-        {
-          "codigoCliche": "120000503",
-          "descricaoCliche": "Clichê 1234-PANTONE_105_C"
-        }
-      ],
-      "anilox": []
-    }
-  ],
-  "motivos": [
-    {
-      "tipoMotivo": "ZPMMD001",
-      "codigoMotivo": "0010",
-      "descricaoMotivo": "Estourado"
-    },
-    {
-      "tipoMotivo": "ZPMMD001",
-      "codigoMotivo": "0020",
-      "descricaoMotivo": "Rasgado"
-    },
-    {
-      "tipoMotivo": "ZPMMD001",
-      "codigoMotivo": "0030",
-      "descricaoMotivo": "Perdido"
-    },
-    {
-      "tipoMotivo": "ZPMMD001",
-      "codigoMotivo": "0040",
-      "descricaoMotivo": "Ponto Cortado"
-    }
-  ],
-  "mensagem": {
-    "codigoMensagem": "S",
-    "textoMensagem": "Consulta realizada com sucesso."
-  }
+{	
+	"motivos": [
+		{
+			"tipoMotivo" : "ZPMMD001",
+			"codigo" : "0010",
+			"descricao" : "Estourado"
+		},
+		{
+			"tipoMotivo" : "ZPMMD001",
+			"codigo" : "0020",
+			"descricao" : "Rasgado"
+		},
+		{
+			"tipoMotivo" : "ZPMMD001",
+			"codigo" : "0030",
+			"descricao" : "Perdido"
+		},
+		{
+			"tipoMotivo" : "ZPMMD001",
+			"codigo" : "0040",
+			"descricao" : "Ponto Cortado"
+		}
+	]
 }
