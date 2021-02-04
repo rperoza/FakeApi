@@ -36,11 +36,11 @@
 			"status"		: "Não Processado",
 			"cliches": [
 				{
-					"codigoCliche" 		: "120000502",
+					"codigoCliche" 		: "120000504",
 					"descricaoCliche" 	: "Clichê 2031-PANTONE_104_C 9039517 V"
 				},
 				{
-					"codigoCliche" 		: "120000503",
+					"codigoCliche" 		: "120000505",
 					"descricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
 				}
 			],
