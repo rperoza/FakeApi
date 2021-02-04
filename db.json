@@ -15,19 +15,17 @@
 					"descricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
 				}
 			],
-			"camisas": [
-				{
-					"codigoCamisa" 		: "130000122",
-					"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
-					"conjuntoCamisa"	: "060K"
-				}
-			],
-			"anilox": [
-				{
-					"codigoAnilox" 		: "180000098",
-					"descricaoAnilox" 	: "Anilox 8764-ANILOX TOP 17 V"
-				}
-			]
+			"camisas": 
+			{
+				"codigoCamisa" 		: "130000122",
+				"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
+				"conjuntoCamisa"	: "060K"
+			},
+			"anilox":
+			{
+				"codigoAnilox" 		: "180000098",
+				"descricaoAnilox" 	: "Anilox 8764-ANILOX TOP 17 V"
+			}			
 		},
 		{
 			"codigoCor" 	: "0050",
@@ -44,13 +42,13 @@
 					"descricaoCliche" 	: "Clichê 1234-PANTONE_105_C"
 				}
 			],
-			"camisas": [
-				{
-					"codigoCamisa" 		: "130000122",
-					"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
-					"conjuntoCamisa"	: "060K"
-				}
-			]
+			"camisas":
+			{
+				"codigoCamisa" 		: "130000122",
+				"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
+				"conjuntoCamisa"	: "060K"
+			}
+			
 		}
 	],
 	"motivos": [
