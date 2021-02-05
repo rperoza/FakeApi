@@ -17,9 +17,9 @@
 			],
 			"camisas": 
 			{
-				"codigoCamisa" 		: "130000122",
-				"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
-				"conjuntoCamisa"	: "060K"
+				"codigoCamisa" 		: "100000123",
+				"descricaoCamisa" 	: "Camisa 1",
+				"conjuntoCamisa"	: "050K"
 			},
 			"anilox":
 			{
@@ -44,8 +44,8 @@
 			],
 			"camisas":
 			{
-				"codigoCamisa" 		: "130000122",
-				"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
+				"codigoCamisa" 		: "110000111",
+				"descricaoCamisa" 	: "Camisa 2",
 				"conjuntoCamisa"	: "060K"
 			},
 			"anilox":
