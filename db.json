@@ -47,8 +47,12 @@
 				"codigoCamisa" 		: "130000122",
 				"descricaoCamisa" 	: "Camisa 12837-CAMISA TESTE 123",
 				"conjuntoCamisa"	: "060K"
-			}
-			
+			},
+			"anilox":
+			{
+				"codigoAnilox" 		: "770000088",
+				"descricaoAnilox" 	: "Anilox 2"
+			}			
 		}
 	],
 	"motivos": [
